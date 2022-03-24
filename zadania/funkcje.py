@@ -7,3 +7,5 @@ def czyParzysta(a):
         return False
 
 wynik=czyParzysta(a)
+
+#costam
